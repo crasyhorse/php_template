@@ -5,7 +5,7 @@
         xmlns="https://www.phpdoc.org"
         xsi:noNamespaceSchemaLocation="data/xsd/phpdoc.xsd"
 >
-    <title>CrasyHorse / PHP-Unit 2 Xray</title>
+    <title>TEMPLATE</title>
     <templates>
         <template name="vendor/onspli/phpdoc-markdown/templates/public-onefile"/>
     </templates>    
